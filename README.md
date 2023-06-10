@@ -4,6 +4,9 @@ This repository contains my personal projects and experiments on various topics 
 To use this repository, you need to have Python 3 and TensorFlow installed on your machine. You can run the code in Jupyter notebooks or Google Colab. If you have any questions, suggestions, or feedback, feel free to open an issue or a pull request.
 
 You can also check out these resources that I learned from and recommend for deep learning enthusiasts:
-https://www.tensorflow.org/tutorials
-https://keras.io/examples/
-https://www.deeplearningbook.org/
+
+[TensorFlow](https://www.tensorflow.org/tutorials)
+
+[Keras](https://keras.io/examples/)
+
+[Deep Learning Book](https://www.deeplearningbook.org/)
